@@ -1,0 +1,1 @@
+Repo containing data structures designed to be lock-free using CAS (Compare-And-Swap) instead of other synchronization primitives, such as mutexes.
