@@ -1,1 +1,8 @@
-Repo containing data structures designed to be lock-free using CAS (Compare-And-Swap) instead of other synchronization primitives, such as mutexes.
+Data structures designed to be lock-free using CAS (Compare-And-Swap) instead of other synchronization primitives, such as mutexes. Developed in C++ using Visual Studio 2012, with performance analysis done using Intel's VTune Amplifier. Source code is in /LockFree, performance results are in /Performance.
+
+Current lock-free data structures:
+Stack
+Singly-Linked List
+
+Current locking data structures:
+Stack
